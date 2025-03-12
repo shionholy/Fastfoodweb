@@ -5,9 +5,6 @@ init:
 run-server:
 	cd backend_order_food_and_drink/ && npm start && cd ..
 
-run-client:
-	cd frontend_order_food_and_drink/ && npm run dev && cd ..
-
 # Database
 kết nối database MongoDB thông qua Mongoose.(MongoDB + Mongoose)
 
@@ -33,7 +30,7 @@ backend_order_food_and_drink
 # Hướng dẫn chạy
 cd đường dẫn thư mục\food_and_drink4\order_food_and_drink\order_food_and_drink\order_food_and_drink\frontend_order_food_and_drink
 ->npm run dev 
-frontend chạy bằng quyền admin
+-frontend chạy bằng quyền admin
 
 # Cấu trúc thư mục
 frontend_order_food/
