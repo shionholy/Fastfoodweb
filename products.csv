@@ -1,0 +1,11 @@
+_id,name,price,description,image,categoryId,is_active,category_id,detail,updatedAt
+67d064d8e6ac0850f45b2de4,Trà Sữa Trân Châu,35000,"Trà sữa thơm ngon, trân châu dai",https://xingfuvietnam.vn/wp-content/uploads/2023/02/xingfu-tra-sua-tran-chau-duong-den-2-FILEminimizer.jpg,1,true,,,
+67d064d8e6ac0850f45b2de5,Cà Phê Sữa Đá,25000,Cà phê pha phin truyền thống,https://danviet.ex-cdn.com/files/f1/296231569849192448/2023/2/25/ca-phe-sua-da-16773198442961656542276.jpg,2,true,,,
+67d064d8e6ac0850f45b2de6,Cơm Sườn,40000,Sà Bì Chưởng,https://i-giadinh.vnecdn.net/2024/03/07/7Honthinthnhphm1-1709800144-8583-1709800424.jpg,3,true,,,
+67d064d8e6ac0850f45b2de7,Pizza Hải Sản,120000,Pizza với hải sản tươi ngon,https://example.com/pizza.jpg,4,false,67d07b05809262f6908ed270,Pizza thượng hạng đến từ Ý,2025-03-11T18:04:14.115Z
+67d064d8e6ac0850f45b2de8,Mì Ý Sốt Bò Bằm,90000,Mì Ý truyền thống sốt bò bằm,https://hidafoods.vn/wp-content/uploads/2024/06/cach-lam-mi-y-sot-thit-bo-bam-ngon-chuan-vi-Y-1.jpg,5,true,,,
+67d06be3e6ac0850f45b2ded,Bánh Mì Thịt Nướng,25000,Bánh mì kẹp thịt nướng thơm ngon,https://www.huggies.com.vn/-/media/Project/banh-mi-thit-bao-nhieu-calo-3.jpg,1,true,,,
+67d06be3e6ac0850f45b2dee,Nước Cam Tươi,20000,Nước cam tươi mát lạnh nguyên chất,https://product.hstatic.net/200000411483/product/dscf0365_62c168f6d0ef44648d7dbfe04fa50f0a_1024x1024.png,2,true,,,
+67d06be3e6ac0850f45b2def,Bún Bò Huế,45000,Bún bò đậm đà hương vị Huế,https://kinhdoamthuc.com/wp-content/uploads/2023/07/bun-bo-hue-1_1628650972.jpg,3,true,,,
+67d06be3e6ac0850f45b2df0,Gà Rán Giòn,60000,Gà rán giòn cay hấp dẫn,https://www.cqmart.vn/images/uploaded/032022%20hinh%20noi%20dung/dui-ga-chien-gion-cp-500g.jpg,4,true,,,
+67d06be3e6ac0850f45b2df1,Trà Đào Cam Sả,30000,Trà đào cam sả thanh mát,https://dayphache.edu.vn/wp-content/uploads/2024/06/cach-lam-tra-dao.jpg,5,true,,,
